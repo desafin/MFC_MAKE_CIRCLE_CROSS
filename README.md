@@ -12,7 +12,7 @@
 
 ## 개발환경
 - C++
-- Visual studio
+- Visual studio 2015
 ## Requirement
 - none
 
